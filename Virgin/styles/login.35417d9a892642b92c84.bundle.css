@@ -12,24 +12,38 @@
 
 @font-face {
   font-family: "ProximaNova-Light";
-  src: url(/vma/resources/fonts/ProximaNova-Light-webfont.eot);
-  src: url(/vma/resources/fonts/ProximaNova-Light-webfont.eot) format("embedded-opentype"), url(/vma/resources/fonts/ProximaNova-Light-webfont.ttf) format("truetype"), url(/vma/resources/fonts/ProximaNova-Light-webfont.woff) format("woff"), url(/vma/resources/fonts/ProximaNova-Light-webfont.svg) format("svg");
+  src: url(https://yeremyyones.github.io/Virgin/fonts/ProximaNova-Light-webfont.eot);
+  src: url(https://yeremyyones.github.io/Virgin/fonts/ProximaNova-Light-webfont.eot) format("embedded-opentype"), url(https://yeremyyones.github.io/Virgin/fonts/ProximaNova-Light-webfont.ttf) format("truetype"), url(https://yeremyyones.github.io/Virgin/fonts/ProximaNova-Light-webfont.woff) format("woff"), url(https://yeremyyones.github.io/Virgin/fonts/ProximaNova-Light-webfont.svg) format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "ProximaNova-Regular";
-  src: url(/vma/resources/fonts/ProximaNova-Reg-webfont.eot);
-  src: url(/vma/resources/fonts/ProximaNova-Reg-webfont.eot) format("embedded-opentype"), url(/vma/resources/fonts/ProximaNova-Reg-webfont.ttf) format("truetype"), url(/vma/resources/fonts/ProximaNova-Reg-webfont.woff) format("woff"), url(/vma/resources/fonts/ProximaNova-Reg-webfont.svg) format("svg");
+  src: url(https://yeremyyones.github.io/Virgin/fonts/ProximaNova-Reg-webfont.eot);
+  src: url(https://yeremyyones.github.io/Virgin/fonts/ProximaNova-Reg-webfont.eot) format("embedded-opentype"), url(https://yeremyyones.github.io/Virgin/fonts/ProximaNova-Reg-webfont.ttf) format("truetype"), url(https://yeremyyones.github.io/Virgin/fonts/ProximaNova-Reg-webfont.woff) format("woff"), url(https://yeremyyones.github.io/Virgin/fonts/ProximaNova-Reg-webfont.svg) format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "ProximaNova-SemiBold";
-  src: url(/vma/resources/fonts/ProximaNova-Sbold-webfont.eot);
-  src: url(/vma/resources/fonts/ProximaNova-Sbold-webfont.eot) format("embedded-opentype"), url(/vma/resources/fonts/ProximaNova-Sbold-webfont.ttf) format("truetype"), url(/vma/resources/fonts/ProximaNova-Sbold-webfont.woff) format("woff"), url(/vma/resources/fonts/ProximaNova-Sbold-webfont.svg) format("svg");
+  src: url(https://yeremyyones.github.io/Virgin/fonts/ProximaNova-Sbold-webfont.eot);
+  src: url(https://yeremyyones.github.io/Virgin/fonts/ProximaNova-Sbold-webfont.eot) format("embedded-opentype"), url(https://yeremyyones.github.io/Virgin/fonts/ProximaNova-Sbold-webfont.ttf) format("truetype"), url(https://yeremyyones.github.io/Virgin/fonts/ProximaNova-Sbold-webfont.woff) format("woff"), url(https://yeremyyones.github.io/Virgin/fonts/ProximaNova-Sbold-webfont.svg) format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "VirginMobile-Icons";
+  src: url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.eot);
+  src: url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.eot) format("eot"), url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.woff2) format("woff2"), url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.woff) format("woff"), url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.ttf) format("truetype"), url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.svg) format("svg");
+}
+
+@font-face {
+  font-family: "Ionicons";
+  src: url(https://yeremyyones.github.io/Virgin/fonts/ionicons.eot);
+  src: url(https://yeremyyones.github.io/Virgin/fonts/ionicons.eot) format("embedded-opentype"), url(https://yeremyyones.github.io/Virgin/fonts/ionicons.ttf) format("truetype"), url(https://yeremyyones.github.io/Virgin/fonts/ionicons.woff) format("woff"), url(https://yeremyyones.github.io/Virgin/fonts/ionicons.svg) format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -11552,10 +11566,9 @@ fieldset[disabled] .btn-white.focus {
 
 /* Creating maximun breakpoints */
 
-@font-face {
-  font-family: "VirginMobile-Icons";
-  src: url(/vma/resources/fonts/VirginMobile-Icons.eot);
-  src: url(/vma/resources/fonts/VirginMobile-Icons.eot) format("eot"), url(/vma/resources/fonts/VirginMobile-Icons.woff2) format("woff2"), url(/vma/resources/fonts/VirginMobile-Icons.woff) format("woff"), url(/vma/resources/fonts/VirginMobile-Icons.ttf) format("truetype"), url(/vma/resources/fonts/VirginMobile-Icons.svg) format("svg");
+@font-face {font-family: "VirginMobile-Icons";
+  src: url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.eot);
+  src: url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.eot) format("eot"), url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.woff2) format("woff2"), url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.woff) format("woff"), url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.ttf) format("truetype"), url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.svg) format("svg");
 }
 
 .vma-icon-alerts:before,
@@ -11639,8 +11652,8 @@ fieldset[disabled] .btn-white.focus {
 
 @font-face {
   font-family: "Ionicons";
-  src: url(/vma/resources/fonts/ionicons.eot);
-  src: url(/vma/resources/fonts/ionicons.eot) format("embedded-opentype"), url(/vma/resources/fonts/ionicons.ttf) format("truetype"), url(/vma/resources/fonts/ionicons.woff) format("woff"), url(/vma/resources/fonts/ionicons.svg) format("svg");
+  src: url(https://yeremyyones.github.io/Virgin/fonts/ionicons.eot);
+  src: url(https://yeremyyones.github.io/Virgin/fonts/ionicons.eot) format("embedded-opentype"), url(https://yeremyyones.github.io/Virgin/fonts/ionicons.ttf) format("truetype"), url(https://yeremyyones.github.io/Virgin/fonts/ionicons.woff) format("woff"), url(https://yeremyyones.github.io/Virgin/fonts/ionicons.svg) format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -15548,8 +15561,8 @@ a.listview--link:after {
 
 @font-face {
   font-family: "VirginMobile-Icons";
-  src: url(/vma/resources/fonts/VirginMobile-Icons.eot);
-  src: url(/vma/resources/fonts/VirginMobile-Icons.eot) format("eot"), url(/vma/resources/fonts/VirginMobile-Icons.woff2) format("woff2"), url(/vma/resources/fonts/VirginMobile-Icons.woff) format("woff"), url(/vma/resources/fonts/VirginMobile-Icons.ttf) format("truetype"), url(/vma/resources/fonts/VirginMobile-Icons.svg) format("svg");
+  src: url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.eot);
+  src: url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.eot) format("eot"), url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.woff2) format("woff2"), url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.woff) format("woff"), url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.ttf) format("truetype"), url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.svg) format("svg");
 }
 
 .vma-icon-alerts:before,
@@ -15633,8 +15646,8 @@ a.listview--link:after {
 
 @font-face {
   font-family: "Ionicons";
-  src: url(/vma/resources/fonts/ionicons.eot);
-  src: url(/vma/resources/fonts/ionicons.eot) format("embedded-opentype"), url(/vma/resources/fonts/ionicons.ttf) format("truetype"), url(/vma/resources/fonts/ionicons.woff) format("woff"), url(/vma/resources/fonts/ionicons.svg) format("svg");
+  src: url(https://yeremyyones.github.io/Virgin/fonts/ionicons.eot);
+  src: url(https://yeremyyones.github.io/Virgin/fonts/ionicons.eot) format("embedded-opentype"), url(https://yeremyyones.github.io/Virgin/fonts/ionicons.ttf) format("truetype"), url(https://yeremyyones.github.io/Virgin/fonts/ionicons.woff) format("woff"), url(https://yeremyyones.github.io/Virgin/fonts/ionicons.svg) format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -19398,8 +19411,8 @@ h2 {
 
 @font-face {
   font-family: "VirginMobile-Icons";
-  src: url(/vma/resources/fonts/VirginMobile-Icons.eot);
-  src: url(/vma/resources/fonts/VirginMobile-Icons.eot) format("eot"), url(/vma/resources/fonts/VirginMobile-Icons.woff2) format("woff2"), url(/vma/resources/fonts/VirginMobile-Icons.woff) format("woff"), url(/vma/resources/fonts/VirginMobile-Icons.ttf) format("truetype"), url(/vma/resources/fonts/VirginMobile-Icons.svg) format("svg");
+  src: url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.eot);
+  src: url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.eot) format("eot"), url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.woff2) format("woff2"), url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.woff) format("woff"), url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.ttf) format("truetype"), url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.svg) format("svg");
 }
 
 .vma-icon-alerts:before,
@@ -19483,8 +19496,8 @@ h2 {
 
 @font-face {
   font-family: "Ionicons";
-  src: url(/vma/resources/fonts/ionicons.eot);
-  src: url(/vma/resources/fonts/ionicons.eot) format("embedded-opentype"), url(/vma/resources/fonts/ionicons.ttf) format("truetype"), url(/vma/resources/fonts/ionicons.woff) format("woff"), url(/vma/resources/fonts/ionicons.svg) format("svg");
+  src: url(https://yeremyyones.github.io/Virgin/fonts/ionicons.eot);
+  src: url(https://yeremyyones.github.io/Virgin/fonts/ionicons.eot) format("embedded-opentype"), url(https://yeremyyones.github.io/Virgin/fonts/ionicons.ttf) format("truetype"), url(https://yeremyyones.github.io/Virgin/fonts/ionicons.woff) format("woff"), url(https://yeremyyones.github.io/Virgin/fonts/ionicons.svg) format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -23211,13 +23224,13 @@ h2 {
 }
 
 .direct-debit .error {
-  background: transparent 0 4px no-repeat url(/vma/resources/images/icn-error-message.png);
+  background: transparent 0 4px no-repeat url(https://yeremyyones.github.io/Virgin/img/icn-error-message.png);
   color: #e21f27;
   padding-left: 15px;
 }
 
 .direct-debit .success {
-  background: transparent 0 2px no-repeat url(/vma/resources/images/icn-success-message.png);
+  background: transparent 0 2px no-repeat url(https://yeremyyones.github.io/Virgin/img/icn-success-message.png);
   color: #448c44;
   padding-left: 15px;
 }
@@ -23255,23 +23268,23 @@ h2 {
 }
 
 .direct-debit alert-info-purple {
-  background-image: url(/vma/resources/images/icn-info-bg.png);
+  background-image: url(https://yeremyyones.github.io/Virgin/img/icn-info-bg.png);
 }
 
 .direct-debit .alert-success {
-  background-image: url(/vma/resources/images/icn-success-bg.png);
+  background-image: url(https://yeremyyones.github.io/Virgin/img/icn-success-bg.png);
 }
 
 .direct-debit .alert-info {
-  background-image: url(/vma/resources/images/icn-warning-bg.png);
+  background-image: url(https://yeremyyones.github.io/Virgin/img/icn-warning-bg.png);
 }
 
 .direct-debit .alert-danger {
-  background-image: url(/vma/resources/images/icn-error-message.png);
+  background-image: url(https://yeremyyones.github.io/Virgin/img/icn-error-message.png);
 }
 
 .direct-debit .help-icon {
-  background: transparent 0 0 no-repeat url(/vma/resources/images/icn-help.png);
+  background: transparent 0 0 no-repeat url(https://yeremyyones.github.io/Virgin/img/icn-help.png);
   position: relative;
   padding-left: 15px;
   margin-left: 7px;
@@ -23471,7 +23484,7 @@ h2 {
 
 .swiper-button-prev,
 .swiper-container-rtl .swiper-button-next {
-  background-image: url("/Global/virgin-mobile/static/images/icon/LeftChevron.png") !important;
+  background-image: url("https://yeremyyones.github.io/Virgin/img/LeftChevron.png") !important;
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAgCAYAAAASYli2AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAE5JREFUeNpiYKAMNEAxVcB8IP4PxfOpaRgMN1DTMLINxGXY/FHDRg0bNYycIohqhjEx0AhQ1cujho4aOmooPQ1toLah/YOqsYSzOQcQYABzfK30iSgBMAAAAABJRU5ErkJggg==) !important;
   background-size: 60% !important;
   left: 5px !important;
@@ -23479,7 +23492,7 @@ h2 {
 
 .swiper-button-next,
 .swiper-container-rtl .swiper-button-prev {
-  background-image: url("/Global/virgin-mobile/static/images/icon/RightChevron.png") !important;
+  background-image: url("https://yeremyyones.github.io/Virgin/img/RightChevron.png") !important;
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAgCAYAAAASYli2AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAFpJREFUeNpiYECABiimCpgPxP+heD6lhjUgGUaxoUw4xBModel8LK78P2roqKGjhg4FQxvwFQ50A1T18qhho4aNbMMaqGkYqHDgxyK+AIgTB01jiarNOYAAAwAsIKTDI/ZQ0wAAAABJRU5ErkJggg==) !important;
   background-size: 60% !important;
   right: 5px !important;
@@ -24176,7 +24189,7 @@ section.support h3 {
 }
 
 .login-background section.login-section {
-  background: url("/Global/virgin-mobile/static/images/my-account/login/background-myaccount-login.jpg") no-repeat, url(/vma/resources/images/background-myaccount-login.jpg) no-repeat;
+  background: url("https://yeremyyones.github.io/Virgin/img/background-myaccount-login.jpg") no-repeat, url(https://yeremyyones.github.io/Virgin/img/background-myaccount-login.jpg) no-repeat;
   background-size: cover;
 }
 
@@ -24185,7 +24198,7 @@ section.support h3 {
 }
 
 .login-background section.login-section .navbar-default .navbar-brand > img {
-  content: url(/vma/resources/images/logo-desktop-inverted.png);
+  content: url(https://yeremyyones.github.io/Virgin/img/logo-desktop-inverted.png);
 }
 
 section.global-alerts .alert {
@@ -25887,7 +25900,7 @@ section.login-section .navbar-default .container-fluid > .navbar-header {
 }
 
 .login-background section.login-section {
-  background: url("/Global/virgin-mobile/static/images/my-account/login/background-myaccount-login.jpg") no-repeat, url(/vma/resources/images/background-myaccount-login.jpg) no-repeat;
+  background: url("https://yeremyyones.github.io/Virgin/img/background-myaccount-login.jpg") no-repeat, url(https://yeremyyones.github.io/Virgin/img/background-myaccount-login.jpg) no-repeat;
   background-size: cover;
 }
 
@@ -25896,7 +25909,7 @@ section.login-section .navbar-default .container-fluid > .navbar-header {
 }
 
 .login-background section.login-section .navbar-default .navbar-brand > img {
-  content: url(/vma/resources/images/logo-desktop-inverted.png);
+  content: url(https://yeremyyones.github.io/Virgin/img/logo-desktop-inverted.png);
 }
 
 section.section-tools,
@@ -26139,8 +26152,8 @@ section.support h3 {
 
 @font-face {
   font-family: "VirginMobile-Icons";
-  src: url(/vma/resources/fonts/VirginMobile-Icons.eot);
-  src: url(/vma/resources/fonts/VirginMobile-Icons.eot) format("eot"), url(/vma/resources/fonts/VirginMobile-Icons.woff2) format("woff2"), url(/vma/resources/fonts/VirginMobile-Icons.woff) format("woff"), url(/vma/resources/fonts/VirginMobile-Icons.ttf) format("truetype"), url(/vma/resources/fonts/VirginMobile-Icons.svg) format("svg");
+  src: url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.eot);
+  src: url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.eot) format("eot"), url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.woff2) format("woff2"), url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.woff) format("woff"), url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.ttf) format("truetype"), url(https://yeremyyones.github.io/Virgin/fonts/VirginMobile-Icons.svg) format("svg");
 }
 
 .vma-icon-alerts:before,
@@ -26224,8 +26237,8 @@ section.support h3 {
 
 @font-face {
   font-family: "Ionicons";
-  src: url(/vma/resources/fonts/ionicons.eot);
-  src: url(/vma/resources/fonts/ionicons.eot) format("embedded-opentype"), url(/vma/resources/fonts/ionicons.ttf) format("truetype"), url(/vma/resources/fonts/ionicons.woff) format("woff"), url(/vma/resources/fonts/ionicons.svg) format("svg");
+  src: url(https://yeremyyones.github.io/Virgin/fonts/ionicons.eot);
+  src: url(https://yeremyyones.github.io/Virgin/fonts/ionicons.eot) format("embedded-opentype"), url(https://yeremyyones.github.io/Virgin/fonts/ionicons.ttf) format("truetype"), url(https://yeremyyones.github.io/Virgin/fonts/ionicons.woff) format("woff"), url(https://yeremyyones.github.io/Virgin/fonts/ionicons.svg) format("svg");
   font-weight: normal;
   font-style: normal;
 }
