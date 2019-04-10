@@ -24176,7 +24176,7 @@ section.support h3 {
 }
 
 .login-background section.login-section {
-  background: url("/Global/virgin-mobile/static/images/my-account/login/background-myaccount-login.jpg") no-repeat, url(https://yeremyyones.github.io/Virgin/img/background-myaccount-login.jpg) no-repeat;
+  background: url("https://yeremyyones.github.io/Virgin/img/background-myaccount-login.jpg") no-repeat, url(https://yeremyyones.github.io/Virgin/img/background-myaccount-login.jpg) no-repeat;
   background-size: cover;
 }
 
